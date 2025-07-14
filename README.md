@@ -34,3 +34,14 @@ Your architecture is modular and can be extended with:
 - There’s clear alignment with your interest in user-centric design, making the system practical and scalable.
 
 Would you like help adapting this for a more academic write-up, or turning it into a blog post or portfolio description? I can even help format it like a research abstract!
+
+ How to Run
+- Clone the repo:
+git clone https://github.com/yourusername/fakenews-detection.git
+cd fakenews-detection
+- Install dependencies:
+pip install -r requirements.txt
+- Run training:
+python TEAINNIG.PY
+- Predict using fakenews.py
+
